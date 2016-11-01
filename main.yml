@@ -1,0 +1,4 @@
+- name: Deployng upated configs
+  hosts: all
+  roles:
+  - deploy

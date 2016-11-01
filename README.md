@@ -1,2 +1,2 @@
-# basic-config-deploy
-Deploy and Update basic user configs for all my servers
+# Ansible : Deploing configs
+Deployng and updating

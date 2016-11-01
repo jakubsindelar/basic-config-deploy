@@ -1,0 +1,3 @@
+rpiv sshd_users="pi"
+vps sshd_users="fanatik"
+ptczv sshd_users="pi"

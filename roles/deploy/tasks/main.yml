@@ -1,0 +1,11 @@
+- name: Paste file .bashrc
+  template: src=bashrc dest=~/.bashrc
+
+- name: Paste file authorized_keys
+  template: src=authorized_keys dest=~/.ssh/authorized_keys
+
+- name: Paste file gitconfig
+  template: src=gitconfig dest=~/.gitconfig
+
+- name: Paste file .prompt.sh
+  template: src=prompt.sh dest=~/.prompt.sh

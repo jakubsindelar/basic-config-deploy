@@ -1,0 +1,9 @@
+[user]
+         name = jakubsindelar
+         email = j.sindelar01@gmail.com
+[alias]
+        cm = !git add -A && git commit -am
+        res = reset --hard HEAD
+	ch = !git checkout
+[color]
+	ui = auto
