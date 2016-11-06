@@ -76,7 +76,7 @@ Compression yes
 
 #PT-CZ
 Host ptcz
-Hostname 10.0.0.4 
+Hostname 10.0.0.11 
 User pi
 Port 22
 KeepAlive yes
