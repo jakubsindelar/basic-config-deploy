@@ -89,3 +89,11 @@ User fanatik
 Port 22
 KeepAlive yes
 Compression yes
+
+#Lada-RPI
+Host insomnia
+Hostname 10.10.10.30
+User fanatik
+Port 22
+KeepAlive yes
+Compression yes
