@@ -9,3 +9,8 @@
 
 - name: Paste file .prompt.sh
   template: src=prompt.sh dest=~/.prompt.sh
+
+- name: Paste file SSH config
+  template: src=ssh_config dest=~/.ssh/config
+
+

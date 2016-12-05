@@ -92,7 +92,7 @@ Compression yes
 
 #Lada-RPI
 Host insomnia
-Hostname 10.10.10.30
+Hostname insomnia.vpn.jsindelar.cz
 User fanatik
 Port 22
 KeepAlive yes
